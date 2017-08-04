@@ -6,7 +6,9 @@ public class UserAccount {
 	    
 	   private String userName;
 	   private String gender;
+	   
 	   private String password;
+	   
 	    
 	 
 	   public UserAccount() {
